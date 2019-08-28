@@ -1,0 +1,9 @@
+div{
+    position: relative;
+    left: 400px;
+    top: 50px;
+}
+.error{
+    color: white;
+    background-color: red;
+}
